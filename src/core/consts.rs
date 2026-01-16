@@ -9,4 +9,4 @@ pub const GUIDANCE: &str = "(Choose or drop files)";
 pub const DIFF_TO_CLIPBOARD_DEFAULT: &str = "Copy to Clipboard";
 pub const DIFF_TO_CLIPBOARD_CLICKED: &str = "* Copied * to Clipboard";
 pub const FOOTER_NOTE: &str =
-    "Thanks for using this app !! Repo: https://github.com/nabbisen/quick-diff-me";
+    "Thanks for using this app !! Repo: https://github.com/forskscope/quick-diff-me";

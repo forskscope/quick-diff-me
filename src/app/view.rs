@@ -7,7 +7,7 @@ use crate::core::consts::{APP_THEME, BASE_SIZE, FOOTER_NOTE, GUIDANCE};
 use crate::core::font::diff_font;
 
 /// iced view handler
-pub fn handle(state: &State) -> Element<Message> {
+pub fn handle(state: &State) -> Element<'_, Message> {
     let palette = APP_THEME.extended_palette();
     let diff_font = Font::with_name(diff_font());
 
