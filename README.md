@@ -1,11 +1,10 @@
 # Quick Diff ME
 
-![Rust](https://img.shields.io/badge/Rust-%23CE412B?style=flat&logo=rust&logoColor=white)
-[![crates.io](https://img.shields.io/crates/v/quick-diff-me?label=latest)](https://crates.io/crates/quick-diff-me)
+[![crates.io](https://img.shields.io/crates/v/quick-diff-me?label=rust)](https://crates.io/crates/quick-diff-me)
+[![License](https://img.shields.io/github/license/forskscope/quick-diff-me)](https://github.com/forskscope/quick-diff-me/blob/main/LICENSE)
 [![Documentation](https://docs.rs/quick-diff-me/badge.svg?version=latest)](https://docs.rs/quick-diff-me)
 [![Dependency Status](https://deps.rs/crate/quick-diff-me/latest/status.svg)](https://deps.rs/crate/quick-diff-me)
 [![Releases Workflow](https://github.com/forskscope/quick-diff-me/actions/workflows/release-executable.yaml/badge.svg)](https://github.com/forskscope/quick-diff-me/actions/workflows/release-executable.yaml)
-[![License](https://img.shields.io/github/license/forskscope/quick-diff-me)](https://github.com/forskscope/quick-diff-me/blob/main/LICENSE)
 
 ## Summary
 
