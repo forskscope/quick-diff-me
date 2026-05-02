@@ -5,7 +5,7 @@ const APP_DEFAULT_FONT: &str = "Yu Gothic";
 const APP_DEFAULT_FONT: &str = "Hiragino Sans";
 
 #[cfg(target_os = "linux")]
-const APP_DEFAULT_FONT: &str = "sans-self";
+const APP_DEFAULT_FONT: &str = "sans-serif";
 
 /// get app font on non-linux
 #[cfg(not(target_os = "linux"))]
@@ -44,7 +44,7 @@ fn linux_app_default_font() -> &'static str {
 const DIFF_FONT: &str = "BIZ UDGothic";
 
 #[cfg(target_os = "macos")]
-const DIFF_FONT: &str = "Hiragino Sans Mono";
+const DIFF_FONT: &str = "BIZ UDGothic";
 
 #[cfg(target_os = "linux")]
 const DIFF_FONT: &str = "monospace";
